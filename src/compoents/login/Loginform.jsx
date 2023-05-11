@@ -3,7 +3,6 @@ import './loginform.css'
 import { Link } from 'react-router-dom'
 const Loginform = () => {
     return (
-
         <div className="login d-flex align-items-center justify-content-center bg-primary vh-100">
             <div className='p-5 form_container rounded bg-white'>
                 <form className='needs-validation'>
